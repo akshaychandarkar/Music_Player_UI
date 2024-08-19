@@ -1,25 +1,27 @@
 # Music Player UI
 
-A React-based music player application with a modern UI, built as part of the Samespace Front-End Developer challenge.
+## Overview
 
-## Features
-
-1. React-based frontend with responsive design
-2. Music playback functionality (play, pause, next, previous)
-3. Song list display with cover images
-4. Search functionality for songs and artists
-5. Tab-based navigation ("For You" and "Top Tracks")
-6. Background gradient color changes based on the current song's cover image
-7. Continuous playback when switching tabs
-8. Interactive UI with animations and transitions
+Music Player UI is a modern and interactive music player built with React.js. Designed to provide a seamless music experience, the application includes functionalities like music playback, song search, and responsive design, all while maintaining a visually appealing interface. 
 
 ## Technologies Used
 
-- React.js
-- React Router for navigation
-- Styled-components for styling
-- Axios for API calls
+- **Languages:** JavaScript, HTML, CSS
+- **Frameworks/Libraries:** React.js, React Router, Styled-components, Axios
+- **Development Tools:** Visual Studio Code, Git, Node.js
+- **Operating System:** Windows 10
 
+## Features
+
+- React-based frontend with responsive design
+- Music playback functionality (play, pause, next, previous)
+- Song list display with cover images
+- Search functionality for songs and artists
+- Tab-based navigation ("For You" and "Top Tracks")
+- Background gradient color changes based on the current song's cover image
+- Continuous playback when switching tabs
+- Interactive UI with animations and transitions
+- 
 ## Setup and Installation
 
 1. Clone the repository:
@@ -32,35 +34,18 @@ A React-based music player application with a modern UI, built as part of the Sa
 
 5. Open your browser and visit `http://localhost:3000`
 
-## Project Structure
-
-- `src/components`: Reusable UI components
-- `src/pages`: Page components for different routes
-- `src/contexts`: React context for state management
-- `src/utils`: Utility functions and API calls
-- `src/styles`: Global styles and theme
 
 ## API Integration
 
 The application uses the Samespace API to fetch song data:
 
-- API Endpoint: `https://cms.samespace.com/items/songs`
-- Cover images: `https://cms.samespace.com/assets/{COVER_IMAGE_ID}`
+- **API Endpoint:** [https://cms.samespace.com/items/songs](https://cms.samespace.com/items/songs)
+- **Cover images:** [https://cms.samespace.com/assets/{COVER_IMAGE_ID}](https://cms.samespace.com/assets/{COVER_IMAGE_ID})
 
-## Responsive Design
+*Note: The API returns different titles, artists, cover images, and durations, but the URL for every song will be the same.*
 
-The application is designed to be responsive:
+## Screenshots
 
-- On smaller screens, the player becomes the main interface
-- A menu button is provided to access the song list on mobile devices
+### Home Page
+![Home Page Screenshot](https://github.com/akshaychandarkar/Music_Player_UI/blob/main/Github%20Images/Homepage.png)
 
-## Future Improvements
-
-- Implement user authentication
-- Add playlist creation and management
-- Integrate with a backend for user-specific data storage
-- Improve accessibility features
-
-## License
-
-This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
