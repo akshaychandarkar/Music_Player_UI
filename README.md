@@ -79,7 +79,6 @@ The application uses the Samespace API to fetch song data:
 - **API Endpoint:** [https://cms.samespace.com/items/songs](https://cms.samespace.com/items/songs)
 - **Cover images:** [https://cms.samespace.com/assets/{COVER_IMAGE_ID}](https://cms.samespace.com/assets/{COVER_IMAGE_ID})
 
-*Note: The API returns different titles, artists, cover images, and durations, but the URL for every song will be the same.*
 
 ## Screenshots
 
