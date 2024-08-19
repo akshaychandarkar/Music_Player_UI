@@ -9,7 +9,7 @@ Music Player UI is a modern and interactive music player built with React.js. De
 - **Languages:** JavaScript, HTML, CSS
 - **Frameworks/Libraries:** React.js, React Router, Styled-components, Axios
 - **Development Tools:** Visual Studio Code, Git, Node.js
-- **Operating System:** Windows 10
+- **Operating System:** Windows 11
 
 ## Features
 
@@ -28,7 +28,7 @@ Music Player UI is a modern and interactive music player built with React.js. De
 
 1. Clone the repository:
     ```bash
-    git clone []
+    git clone [https://github.com/akshaychandarkar/Music_Player_UI]
     ```
 
 2. Navigate to the project directory:
