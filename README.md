@@ -24,8 +24,6 @@ Music Player UI is a modern and interactive music player built with React.js. De
 
 ## Setup and Installation
 
-## Setup and Installation
-
 1. **Clone the Repository or Download the ZIP:**
    - Clone: `git clone https://github.com/akshaychandarkar/Music_Player_UI`
    - Download the ZIP and extract it to your desired location.
