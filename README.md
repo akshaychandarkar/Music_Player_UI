@@ -24,52 +24,23 @@ Music Player UI is a modern and interactive music player built with React.js. De
 
 ## Setup and Installation
 
-### Option 1: Clone the Repository
+## Setup and Installation
 
-1. Clone the repository:
-    ```bash
-    git clone [https://github.com/akshaychandarkar/Music_Player_UI]
-    ```
+1. **Clone the Repository or Download the ZIP:**
+   - Clone: `git clone https://github.com/akshaychandarkar/Music_Player_UI`
+   - Download the ZIP and extract it to your desired location.
 
-2. Navigate to the project directory:
-    ```bash
-    cd music-player-ui
-    ```
+2. **Navigate to the Project Directory:**
+   - `cd music-player-ui`
 
-3. Install dependencies:
-    ```bash
-    npm install
-    ```
+3. **Install Dependencies:**
+   - `npm install`
 
-4. Start the development server:
-    ```bash
-    npm start
-    ```
+4. **Start the Development Server:**
+   - `npm start`
 
-5. Open your browser and visit `http://localhost:3000` to view and interact with the application.
-
-### Option 2: Download the ZIP File
-
-1. Download the project as a ZIP file from the repository.
-
-2. Extract the contents of the ZIP file to your desired location on your computer.
-
-3. Navigate to the project directory:
-    - Open a terminal or command prompt.
-    - Navigate to the extracted project directory.
-
-4. Install dependencies:
-    ```bash
-    npm install
-    ```
-
-5. Start the development server:
-    ```bash
-    npm start
-    ```
-
-6. Open your browser and visit `http://localhost:3000` to view and interact with the application.
-
+5. **Open Your Browser:**
+   - Visit `http://localhost:3000` to view and interact with the application.
 
 
 ## API Integration
